@@ -10,6 +10,8 @@ This repository contains all weekly tutorial codes for Advanced Programming Prac
 
 📁 WEEK-5 – Practice programs and concepts covered in Week 5
 
+📁 WEEK-6 – Practice programs and concepts covered in Week 6
+
 🚀 Features
 
 📌 Clean and structured code for easy learning
